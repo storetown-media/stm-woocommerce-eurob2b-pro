@@ -10,7 +10,7 @@
 [![PHP](https://img.shields.io/badge/PHP-8.1%E2%80%938.4-777BB4?style=flat-square&logo=php)](#kompatibilität)
 [![Garantie](https://img.shields.io/badge/30%20Tage-Geld%20zur%C3%BCck-brightgreen?style=flat-square)](#pricing)
 
-[**Kaufen ab 199 € netto**](https://www.storetown-media.de/produkt/eurob2b-pro-woocommerce/) · [**Kostenlose Basis**](https://github.com/storetown-media/stm-eurob2b) · [**Hub**](https://www.storetown-media.de/produkt-kategorie/downloads/wordpress-plugins/)
+[**Kaufen ab 249 €**](https://www.storetown-media.de/produkt/eurob2b-pro-woocommerce/) · [**Kostenlose Basis**](https://github.com/storetown-media/stm-eurob2b) · [**Hub**](https://www.storetown-media.de/produkt-kategorie/downloads/wordpress-plugins/)
 
 </div>
 
@@ -74,11 +74,11 @@ Der Lizenzschlüssel wird unter **EuroB2B → Lizenz** eingetragen. Erst danach 
 
 ## Pricing
 
-| Edition | Websites | Preis im Jahr |
+| Edition | Websites | Preis im Jahr (inkl. 19 % MwSt.) |
 |---|---|---|
-| **1 Website** | 1 | **199 €** netto (236,81 € inkl. 19 % MwSt.) |
-| **3 Websites** | 3 | **299 €** netto (355,81 € inkl. 19 % MwSt.) |
-| **Unbegrenzt** | beliebig viele | **449 €** netto (534,31 € inkl. 19 % MwSt.) |
+| **1 Website** | 1 | **249 €** |
+| **3 Websites** | 3 | **399 €** |
+| **Unbegrenzt** | beliebig viele | **599 €** |
 
 Die Lizenz gilt ein Jahr für Updates und Support. Die Verlängerung kostet 30 % weniger.
 

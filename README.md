@@ -63,7 +63,7 @@ EuroB2B Pro ergänzt diese Bausteine in derselben Oberfläche wie die Basis. Es 
 
 Sie steuert **Updates und Support**, mehr nicht. Läuft sie aus, arbeitet EuroB2B Pro unverändert weiter; es kommen lediglich keine Aktualisierungen mehr an, und der Lizenz-Bildschirm sagt Ihnen das.
 
-Der Lizenzschlüssel wird unter **EuroB2B → Lizenz** eingetragen. Erst danach verbindet sich EuroB2B Pro mit dem Lizenzdienst von Storetown Media, höchstens zweimal am Tag, und übermittelt nur Produkt, Lizenzschlüssel, Hostnamen der Website und Plugin-Version. Neue Versionen erscheinen danach wie bei jedem anderen Plugin unter **Plugins**. Die kostenlose Basis stellt keine solche Verbindung her.
+Der Lizenzschlüssel wird unter **EuroB2B → Einstellungen → Lizenz** eingetragen. Erst danach verbindet sich EuroB2B Pro mit dem Lizenzdienst von Storetown Media, höchstens zweimal am Tag, und übermittelt nur Produkt, Lizenzschlüssel, Hostnamen der Website und Plugin-Version. Neue Versionen erscheinen danach wie bei jedem anderen Plugin unter **Plugins**. Die kostenlose Basis stellt keine solche Verbindung her.
 
 ## Zielgruppe
 
@@ -101,7 +101,7 @@ Die Lizenz gilt ein Jahr für Updates und Support. Die Verlängerung kostet 30 %
 1. Kostenlose Basis [EuroB2B](https://github.com/storetown-media/stm-eurob2b) installieren und aktivieren
 2. Das ZIP von EuroB2B Pro aus **Mein Konto → Downloads** laden
 3. **Plugins → Installieren → Plugin hochladen**, aktivieren
-4. Lizenzschlüssel unter **EuroB2B → Lizenz** eintragen
+4. Lizenzschlüssel unter **EuroB2B → Einstellungen → Lizenz** eintragen
 5. Die Pro-Funktionen erscheinen in derselben Oberfläche wie die der Basis unter **EuroB2B**
 
 ## Support & Pre-Sales
